@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-23T10:00:00Z","level":"INFO","source":"api","message":"First"}
+это неправильный JSON
+{"timestamp":"2026-10-23T10:02:00Z","level":"ERROR","source":"worker","message":"Third"}

@@ -1,0 +1,4 @@
+timestamp,level,source,message
+2026-10-23T10:00:00Z,INFO,api,First
+2026-10-23T10:01:00Z,WARNING,api,Second,EXTRA
+2026-10-23T10:02:00Z,ERROR,worker,Third
